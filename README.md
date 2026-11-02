@@ -1,4 +1,4 @@
-# snowflake_dla
+# Snowflake DLA
 
 A small Python program that generates **6-fold symmetric pseudo-snowflakes** from random walks. It's inspired by diffusion-limited aggregation (DLA): particles take stochastic, branching paths outward from a central seed, and the resulting branch is copied around the centre using the symmetry operations of a snowflake.
 
